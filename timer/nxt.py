@@ -55,9 +55,9 @@ def next_w(w, h=None, m=None, s=None):
 
 
 if __name__ == "__main__":
-    print next_tt("5", "14", "00", "00")
-    print next_tt("5", "17", "00", "00")
-    print next_tt("4", "14", "00", "00")
-    print next_tt("4", "17", "00", "00")
-    print next_tt("6", "14", "00", "00")
-    print next_tt("6", "17", "00", "00")
+    print next_w("5", "14", "00", "00")
+    print next_w("5", "17", "00", "00")
+    print next_w("4", "14", "00", "00")
+    print next_w("4", "17", "00", "00")
+    print next_w("6", "14", "00", "00")
+    print next_w("6", "17", "00", "00")
